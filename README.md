@@ -9,4 +9,4 @@ Core Excel Skills
 - Interactive Dashboard with Slicers
 
 Dashboard Preview
-
+![Sales Dashboard](Dashboard.png)
